@@ -1,4 +1,0 @@
-- hosts: localhost
-  gather_facts: False
-  roles:
-    - defunctzombie.coreos-bootstrap
